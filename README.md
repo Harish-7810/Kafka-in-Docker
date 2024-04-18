@@ -1,3 +1,6 @@
+This is kafka in Docker setup for free.
+
+
 ![image](../images/confluent-logo-300-2.png)
   
 # Documentation
