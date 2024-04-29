@@ -1,3 +1,8 @@
+Here,
+docker-compose.yml has the image with ksqlDB,
+docker-compose1.yaml has without ksqlDB,
+docker-compose2.yaml has with zookepper without ksqlDB .
+
 This is kafka in Docker setup for free.
 
 
