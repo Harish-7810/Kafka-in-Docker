@@ -1,4 +1,16 @@
-This is kafka in Docker setup for free.
+Here,
+docker-compose.yml has the image with ksqlDB,
+docker-compose1.yaml has without ksqlDB,
+docker-compose2.yaml has with zookepper without ksqlDB.
+
+
+kafka cluster ids:
+
+MkU3OEVBNTcwNTJENDM2Qk  &  i_sU4uZNRKSxvd76LWN5Qw    b21MJrp3TleIUI6vfc1HkA
+go to broker in shell and do     cd /usr/bin       and do      kafka-storage random-uuid
+it creates new cluster id and can use it again to craete a new cluster.
+
+This kafka in Docker setup is for free.
 
 
 ![image](../images/confluent-logo-300-2.png)
