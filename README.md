@@ -2,6 +2,7 @@ Here,
 docker-compose.yml has the image with ksqlDB,
 docker-compose1.yaml has without ksqlDB,
 docker-compose2.yaml has with zookepper without ksqlDB.
+docker-compose3.yaml has no kraftID and has a zookeeper with three brokers as kafka-1,2,3.
 
 
 kafka cluster ids:
